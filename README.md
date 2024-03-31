@@ -13,7 +13,7 @@
       <li>Go to your prefered location (eg: Type a drive letter (i.e. "D:") and press "Enter" to change drives. Then cd D:\Unity\TheFrogGame</li>
       <li>git clone https://github.com/shadowsayan123/TheFrogGame.git</li>
     </ul></li>
-    <li>In Unity Hub ![image](https://github.com/shadowsayan123/TheFrogGame/assets/22864446/24b34eca-95a8-4cb5-8702-f5cc1cc08db3) click on Projects then Add from local</li>
+    <li>In Unity Hub <img src="https://github.com/shadowsayan123/TheFrogGame/assets/22864446/24b34eca-95a8-4cb5-8702-f5cc1cc08db3" /> click on Projects then Add from local</li>
     <li>This should open the project</li>
     </ul>
   </p>
