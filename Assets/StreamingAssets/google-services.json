@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55823038219",
+    "project_id": "thefroggamedb",
+    "storage_bucket": "thefroggamedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55823038219:android:9d591676a7af62032e940e",
+        "android_client_info": {
+          "package_name": "com.KolkataGameStudios.TheFrogGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelEAlGAQh-H_EDwvv6bZ4mP735poWoy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
