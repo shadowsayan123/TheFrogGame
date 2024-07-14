@@ -16,7 +16,7 @@
     <li>In Unity Hub <img src="https://github.com/shadowsayan123/TheFrogGame/assets/22864446/24b34eca-95a8-4cb5-8702-f5cc1cc08db3" /> click on Projects then Add from local</li>
     <li>This should open the project</li>
       <li>
-        If you face any issues while cloning the project in your local through github then follow the steps in the below link:
+        If you face any issues while loading the scenes in your local unity through github then follow the steps in the below link:
       </li>
       <li>
         https://community.gamedev.tv/t/git-w-gitignore-does-not-accurately-reproduce-project-when-cloning/100115
